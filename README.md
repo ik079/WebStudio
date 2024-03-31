@@ -14,4 +14,3 @@ This is a web studio project that showcases HTML, CSS, and JavaScript skills. It
 - HTML
 - CSS
 - JavaScript
-# WebStudio
